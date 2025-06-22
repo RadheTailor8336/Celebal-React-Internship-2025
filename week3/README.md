@@ -1,6 +1,6 @@
 # 📅 Week 3  Assignment — React Admin Dashboard
 
-This project is a  **Admin Dashboard** application developed using **React.js** and **Syncfusion UI components**. It demonstrates dynamic theming, responsive layout, data visualization, and modular architecture — aligning with modern front-end development practices.
+A modern Admin Dashboard built with React.js and Syncfusion UI, featuring dynamic theming, responsive design, and interactive data visualization.
 
 ![Dashboard Screenshot](https://i.ibb.co/W6g39w3/image.png)
 
