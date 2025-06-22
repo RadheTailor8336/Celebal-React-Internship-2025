@@ -1,13 +1,48 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+# 📅 Week 3  Assignment — React Admin Dashboard
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+This project is a  **Admin Dashboard** application developed using **React.js** and **Syncfusion UI components**. It demonstrates dynamic theming, responsive layout, data visualization, and modular architecture — aligning with modern front-end development practices.
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+![Dashboard Screenshot](https://i.ibb.co/W6g39w3/image.png)
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+---
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
-...
+## 🔍 Overview
+
+The dashboard includes core admin features such as:
+
+- 🔄 Light & Dark Theme Toggle  
+- 🎨 Theme Color Customization Panel  
+- 📊 Interactive Charts (Line, Bar, Pie, Pyramid, etc.)  
+- 📅 Integrated Calendar  
+- ✅ Kanban Board for Task Management  
+- 📁 Pages for Orders, Customers, and Employees  
+- 🧭 Responsive Sidebar and Top Navbar
+
+---
+
+## 🧰 Technologies Used
+
+- **React.js** – UI Library  
+- **Tailwind CSS** – Utility-first CSS Framework  
+- **Syncfusion React UI** – Charts, Calendar, Kanban  
+- **React Router DOM** – Client-side Routing  
+- **Context API** – Theme & UI State Management
+
+---
+
+## ▶️ Getting Started
+
+Follow the steps below to run the project locally on any system:
+
+```bash
+# 1. Clone the repository
+git clone <repository-url>
+
+# 2. Navigate into the project directory
+cd your-project-folder
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm start
