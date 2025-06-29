@@ -2,7 +2,7 @@
 
 A modern Admin Dashboard built with React.js and Syncfusion UI, featuring dynamic theming, responsive design, and interactive data visualization.
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./assets/dashboard.png)
 
 ---
 
