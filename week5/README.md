@@ -23,7 +23,6 @@ A sleek and responsive Spotify-like music app built using **React.js**, **Vite**
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/aurelioo29/Spotify-Clone.git
 cd Spotify-Clone
 npm install
 npm run dev
