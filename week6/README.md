@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone – Week 5 Assignment
+# 🎵 Spotify Clone – Week 6 Assignment
 
 A sleek and responsive Spotify-like music app built using **React.js**, **Vite**, and **Tailwind CSS**. This project features a functional music player UI with context-based state management.
 
