@@ -37,12 +37,16 @@
 
 ## 📸 Screenshots
 
-> Add your screenshots here ![alt text](image.png) ![alt text](image-1.png):
-- Dashboard view
-- Shipment creation form
-- Track shipment modal
-- Admin panel
+> Add your screenshots here  
+![Dashboard View](Shipperr/assets/Shipper1.png)  
+![Mobile View Sidebar](Shipperr/assets/Shipper2.png)
+
+- Dashboard view  
+- Shipment creation form  
+- Track shipment modal  
+- Admin panel  
 - Mobile view toggle sidebar
+
 
 ## 🚀 Getting Started
 
