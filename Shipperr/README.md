@@ -38,8 +38,8 @@
 ## 📸 Screenshots
 
 > Add your screenshots here  
-![Dashboard View](Shipperr/assets/Shipper1.png)  
-![Mobile View Sidebar](Shipperr/assets/Shipper2.png)
+![Dashboard View](assets/Shipperr1.png)  
+![Mobile View Sidebar](assets/Shipperr2.png)
 
 - Dashboard view  
 - Shipment creation form  
