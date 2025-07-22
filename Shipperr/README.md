@@ -55,22 +55,13 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/nimish2004/Shipperr
-cd Shipperr
-
-
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Run the development server
+### 2. Run the development server
 
 ```bash
 npm run dev
